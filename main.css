@@ -6,7 +6,7 @@
     font-size: 100px;
     text-transform: uppercase;
     position: absolute;
-    bottom: 300px;
+    bottom: 500px;
     left: 50px;
     color: white;
     z-index: 100
@@ -17,7 +17,7 @@
     font-size: 30px;
     font-weight: 600;
     position: absolute;
-    bottom: 260px;
+    bottom: 460px;
     left: 53px;
     color: white;
     z-index: 100;
@@ -33,6 +33,6 @@ ul.social-icon li {
 
 .banner-icon-group {
     position: absolute;
-    bottom: 180px;
+    bottom: 380px;
     left: 10px;    
 }
