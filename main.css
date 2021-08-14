@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik+One");
+@import url("https://fonts.googleapis.com/css?family=Nunito:400,600,700,900");
+
+.banner-heading {
+    font-family: 'Rubik One', sans-serif;
+    font-size: 100px;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 300px;
+    left: 50px;
+    color: white;
+    z-index: 100
+}
+
+.banner-text {
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    position: absolute;
+    bottom: 260px;
+    left: 53px;
+    color: white;
+    z-index: 100;
+}
+
+ul.social-icon{
+    list-style: none;
+    text-align: center;
+  }
+ul.social-icon li {
+    display: inline-block;
+}
+
+.banner-icon-group {
+    position: absolute;
+    bottom: 180px;
+    left: 10px;    
+}
