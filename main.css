@@ -47,3 +47,11 @@ body {
 a {
     color: white;
 }
+
+ .wordapp {
+     text-align: left; 
+     margin-top: 100px; 
+     position: absolute; 
+     bottom: 300px; 
+     left: 55px;
+ }
